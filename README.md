@@ -1,7 +1,5 @@
 # Saisamorn13.github.io
 
-<img src=(https://github.com/Saisamorn13/Saisamorn13.github.io/assets/162402651/b03797c6-d83d-428e-873a-73ee3b940461)
-.png" alt="RPB Photo" align="right" width="30%"/>
 
 # _Saisamorn Saengsornthaweesak_
 > _Bechelor student_<br />
