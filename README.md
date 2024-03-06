@@ -28,7 +28,7 @@
 # Project experience with Languages
 * 
 # Contact Info
-* [Facebook]([https://rbatzing.github.io](https://www.facebook.com/profile.php?id=100008832543314))
+* [Facebook](https://www.facebook.com/profile.php?id=100008832543314))
 * [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
 * [Twitter](https://twitter.com/rbatz)
 * [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en)
