@@ -31,7 +31,7 @@
 # Contact Info
 * [Facebook](https://www.facebook.com/profile.php?id=100008832543314)
 * [INSTAGRAM](https://www.instagram.com/saisai._.13?igsh=czRjNDNmOG4ydmF5&utm_source=qr)
-* [EMAIL] Saisamorns13@gmail.com
+* [EMAIL]Saisamorns13@gmail.com
 
 
 
