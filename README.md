@@ -4,24 +4,25 @@
 
 # _Saisamorn Saengsornthaweesak_
 > _Bechelor student_<br />
-> Payap University, Department of Computer Science<br />
+> Payap University, Department of Business Maanagement<br />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, and Web Community Development
+> IBM student from payap university with passion and ambitious of digital marketing and human resources in hospitality firm.  
 
 # Education
-* Payap University-Intenational Business Management
-* Sacred Heart College Chiang Mai
-* Khunyuawitthaya 
+* Payap University-Intenational Business Management 2020 - 2024
+* Sacred Heart College Chiang Mai 2016 - 2018
+
 
 # Experience
-* Summer work and travel programe 2023 - Maine,USA
-* Haidilao Corporation - 2021
-* Thanaree House - 2019
+* 2023 Summer work and travel programe-Maine,USA
+* 2021 Customer service-Haidilao Corporation 
+* 2019 Thanaree House
 # Interests
-* Reading
-* Exploring around the town
-* Learn new language
+* Practice graphic design
+* UX/UI designing skills industry
+* Writing block about foods and restaurants
+* Learning new language
 * Practice cooking skills
 
 # Project experience with Languages
